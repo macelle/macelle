@@ -1,7 +1,5 @@
-### Hi there 👋
+Oie!
 
-<!--
-**macelleneves/macelleneves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 👩🏻‍💻 Estudante de TADS;
 📘 Estudando no momento: HTML, CSS e JavaScript;
 👩🏻 Pronouns: she/her.
