@@ -1,4 +1,4 @@
-<div align="center">👩🏻‍💻 Estudante de TADS 📘 Estudando no momento: HTML, CSS e JavaScript 👩🏻 Pronouns: she/her.</div>
+<div align="center">👩🏻‍💻 Estudante de TADS; <br>📘 Estudando no momento: HTML, CSS e JavaScript; <br>👩🏻 Pronouns: she/her.</div>
 <hr>
 <div align="center">
   <a href="https://github.com/macelleneves">
