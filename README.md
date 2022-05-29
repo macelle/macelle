@@ -1,7 +1,7 @@
 Oie!
 
-👩🏻‍💻 Estudante de TADS;
-📘 Estudando no momento: HTML, CSS e JavaScript;
+👩🏻‍💻 Estudante de TADS;<br>
+📘 Estudando no momento: HTML, CSS e JavaScript;<br>
 👩🏻 Pronouns: she/her.
 
 <div align="center">
