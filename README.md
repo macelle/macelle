@@ -1,8 +1,6 @@
 Oie!
 
-👩🏻‍💻 Estudante de TADS;<br>
-📘 Estudando no momento: HTML, CSS e JavaScript;<br>
-👩🏻 Pronouns: she/her.
+👩🏻‍💻 Estudante de TADS 📘 Estudando no momento: HTML, CSS e JavaScript 👩🏻 Pronouns: she/her.
 
 <div align="center">
   <a href="https://github.com/macelleneves">
