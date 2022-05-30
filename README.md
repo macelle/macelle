@@ -1,5 +1,5 @@
 <div align="center">
-👩🏻 Pronouns: she/her.<br> 
+👩🏻 Pronouns: she/her (ela/dela).<br> 
 👩🏻‍💻 Estudante de TADS. <br><br> 
 📘 No momento, desenvolvendo minhas habilidades em: </div>
 
