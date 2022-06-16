@@ -1,6 +1,6 @@
 <div align="center">
 👩🏻 Pronouns: she/her (ela/dela).<br> 
-👩🏻‍💻 Estudante de TADS. <br><br> 
+👩🏻‍💻 Estudante de ADS. <br><br> 
 📘 No momento, desenvolvendo minhas habilidades em: </div>
 
 <div align="center" style="display: inline_block"><br>
