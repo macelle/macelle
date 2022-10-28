@@ -1,5 +1,5 @@
 <div align="center">
-👩🏻 Pronouns: she/her (ela/dela).<br> 
+👩🏻 Pronouns: she/her.<br> 
 👩🏻‍💻 Systems Analysis and Development' student. <br><br> 
 📘 Learning: </div>
 
