@@ -1,7 +1,7 @@
 <div align="center">
 👩🏻 Pronouns: she/her (ela/dela).<br> 
-👩🏻‍💻 Estudante de Análise e Desenvolvimento de Sistemas. <br><br> 
-📘 No momento, desenvolvendo minhas habilidades em: </div>
+👩🏻‍💻 Systems Analysis and Development' student. <br><br> 
+📘 Learning: </div>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
