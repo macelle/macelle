@@ -1,5 +1,4 @@
 <div align="center">
-👩🏻 Pronouns: she/her.<br> 
 👩🏻‍💻 Systems Analysis and Development' student. <br><br> 
 </div>
 
